@@ -3,15 +3,23 @@
 PortBIM is a specialized 3D editor and management dashboard designed for creating and linking geospatial elements with personnel data in a unified interface. It features a robust **Designer Management** system integrated with an interactive **3D Scene Editor**.
 
 
-
 ## Screenshots
-![alt text](image.png)
 
-![alt text](image-1.png)
 
-![alt text](image-2.png)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  
+  <!-- 1-ci row: 2 şəkil yan-yana -->
+  <img src="image.png" width="350" />
+  <img src="image-1.png" width="350" />
 
-![alt text](image-3.png)
+  <!-- 2-ci row: sağ tərəfdə alt-alta 2 şəkil -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="image-2.png" width="170" />
+    <img src="image-3.png" width="160" />
+  </div>
+
+</div>
+
 
 
 
